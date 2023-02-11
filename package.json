@@ -1,0 +1,19 @@
+{
+  "name": "dummy-api-rest",
+  "version": "1.0.0",
+  "description": "Api que simplemente retorna un json para probar a través de otra api.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauro-cuquejo/dummy-api-rest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mauro-cuquejo/dummy-api-rest/issues"
+  },
+  "homepage": "https://github.com/mauro-cuquejo/dummy-api-rest#readme"
+}
