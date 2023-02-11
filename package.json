@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/mauro-cuquejo/dummy-api-rest.git"
   },
-  "author": "",
+  "author": "Mauro Cuquejo",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mauro-cuquejo/dummy-api-rest/issues"
